@@ -4,7 +4,7 @@ To DO:
     - Week Type: Data Scince
     - Deadline :  []
     - Task Link: [Task](https://drive.google.com/drive/folders/1BpG4Sjc-Fp34xHafeLlOZJz-MMZzt1l1?usp=drive_link) 
-    - Solution  : [Solution](https://drive.google.com/file/d/1D6j5tmcqcTDLvFeseUI280sSa-fved23/view?usp=drive_link)  
+    - Solution  : [Solution](https://github.com/SakrrDev/DEPI_R5_Resourses/tree/main/DB%20and%20SQL/Week%207)  
 
 ---
 
