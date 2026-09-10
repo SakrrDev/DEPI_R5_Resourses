@@ -25,6 +25,7 @@ I made this repo to keep track of the resources, tasks, assignments, and useful 
 - Learn SQL in  `English`: [Playlist link](https://youtu.be/HXV3zeQKqGY)
 
 - Database `Assignments` with DEPI: [Assignments Link](https://github.com/SakrrDev/DEPI_R5_Resourses/tree/main/DB%20and%20SQL)
+- 50 SQL Problems from `LeetCode`: [Problems](https://leetcode.com/studyplan/top-sql-50/)
 
 ##### `Will adding any updates...`
 
