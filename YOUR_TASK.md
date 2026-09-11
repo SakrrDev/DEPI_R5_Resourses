@@ -10,7 +10,7 @@ To DO:
 
 - `[Week 7, Session 3]:`
     - Week Type: Freelancing
-    - Deadline :  []
+    - Deadline :  [Sep 14, 2026, 11:59 PM]
     - Task Link: [Task](https://drive.google.com/file/d/1KHkAjsTBJv07YhhVT8c0VL9Tqtho8eqN/view?usp=drive_link) 
     - Solution  : [Solution]() Adding Soon..
     
