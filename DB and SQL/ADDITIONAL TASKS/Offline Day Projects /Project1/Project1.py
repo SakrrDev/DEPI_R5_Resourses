@@ -17,7 +17,7 @@ connection = psycopg2.connect(
     host="localhost",
     database="EMPOLYEE",
     user="sakrdev",
-    password="isakrdev26",
+    password="----",
     port="5432"
 )
 
